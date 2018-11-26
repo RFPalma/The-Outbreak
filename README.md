@@ -7,12 +7,12 @@ Contributors:
 
 Rodrigo David
 https://www.linkedin.com/in/rodrigo-g-david/
-github.com/rodrigogdavid
+https://www.github.com/rodrigogdavid
 
 Cristiano Pais
 https://www.linkedin.com/in/cristiano-pais/
-github.com/cristiano170
+https://www.github.com/cristiano170
 
 Daniel Figueira
 https://www.linkedin.com/in/extr3me/
-github.com/eXtr3me
+https://www.github.com/eXtr3me
