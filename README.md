@@ -1,18 +1,4 @@
-# The-Outbreak
-A game developed @ <Academia de Código_> #18_bootcamp
------------------------------------------------------------------------------
-After 4 weeks learning programming we developed this simple game!!!
+# TheOutbreak
+Group Project developed @ &lt;Academia de Código_>
 
-Contributors:
-
-Rodrigo David
-https://www.linkedin.com/in/rodrigo-g-david/
-https://www.github.com/rodrigogdavid
-
-Cristiano Pais
-https://www.linkedin.com/in/cristiano-pais/
-https://www.github.com/cristiano170
-
-Daniel Figueira
-https://www.linkedin.com/in/extr3me/
-https://www.github.com/eXtr3me
+## After 4 weeks learning programming we made this simple game!!!
